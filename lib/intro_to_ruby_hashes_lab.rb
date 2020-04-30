@@ -2,7 +2,7 @@ def new_hash
   { }
 end
 
-def my_hash = 
+def my_hash 
   {key: name, value: "Joshua"}
 end
 
