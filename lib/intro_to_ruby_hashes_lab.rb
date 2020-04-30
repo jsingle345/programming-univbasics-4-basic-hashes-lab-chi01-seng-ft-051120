@@ -2,8 +2,8 @@ def new_hash
   { }
 end
 
-def my_hash 
-  person = {key: name, value: "Joshua"}
+def my_hash
+  {name: "Joshua"}
 end
 
 def pioneer
